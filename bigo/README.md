@@ -25,7 +25,7 @@ Big-O Coding courses
 ## Blue - 1
 <!-- ![blue.png](blue-level.png) -->
 
-- Lecture 01: Dynamic Array & String
+- [Lecture 01: Dynamic Array & String](./1-blue/Lecture-01_Dynamic-Array-String.cpp)
 - Lecture 02: Algorithmic Complexity
 - Lecture 03: Sorting
 - Lecture 04: Stack & Queue

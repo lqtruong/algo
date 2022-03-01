@@ -11,7 +11,6 @@ using namespace std;
 
 int main()
 {
-
     int n;
     cout << "=> input size:" << endl;
     cin >> n;
